@@ -2,8 +2,7 @@
 
 A reproducible, end‑to‑end EDA of the public **Brazilian Olist e‑commerce dataset**. The notebook cleans, merges, and analyzes customer, order, product, seller, payment, review, and (optional) geolocation data to answer practical business questions.
 
-> **Deliverable:** `brazilian-olist-e-commerce-dataset-eda.ipynb`
-> **Grain:** Item‑level by default (one row per order item). Order‑level metrics are computed with safeguards to avoid double counting.
+> **Deliverable:** `Ecommerce Data Analysis.ipynb`
 
 ---
 
