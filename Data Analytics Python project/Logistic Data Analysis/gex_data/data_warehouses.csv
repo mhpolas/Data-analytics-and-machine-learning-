@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,capacity,location_latitude,location_longitude,operating_hours,manager_id,refrigeration_capacity,has_automated_sorting,maintenance_schedule,electricity_cost
+W01,Warehouse A,3597,40.802807,-73.961812,06:00-22:00,M01,1051,True,Weekly,3677.7
+W02,Warehouse B,3301,40.791033,-73.655684,06:00-24:00,M02,961,False,Weekly,1832.35
+W03,Warehouse C,1768,40.943624,-73.797968,06:00-24:00,M03,191,True,Monthly,1661.77
+W04,Warehouse D,1461,40.806129,-73.81607,06:00-24:00,M04,302,False,Weekly,3020.37
+W05,Warehouse E,2761,40.51646,-73.625285,06:00-22:00,M05,697,True,Weekly,3613.9
+W06,Warehouse F,4214,40.662525,-73.907723,06:00-18:00,M06,829,False,Monthly,1068.25
+W07,Warehouse G,1416,40.778103,-73.729133,06:00-24:00,M07,239,True,Monthly,4032.78
+W08,Warehouse H,1013,40.533399,-73.694002,06:00-20:00,M08,198,True,Bi-weekly,3072.86
