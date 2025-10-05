@@ -2,7 +2,7 @@
 
 GlobalExpress Logistics is a package delivery company that operates across multiple zones with different warehouses and drivers. The company has been collecting data on their operations but has not been able to effectively analyze it to improve efficiency and profitability.
 
-As a member of the Data Analytics team, your task is to analyze the provided dataset, derive meaningful insights, and suggest improvements to the company's operations.
+My task is to analyze the provided datasests, derive meaningful insights, and suggest improvements to the company's operations.
 
 ## Dataset Description
 
